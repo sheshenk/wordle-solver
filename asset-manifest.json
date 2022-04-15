@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sheshenk/wordle-solver/static/js/main.f932e7f8.js",
+    "index.html": "/sheshenk/wordle-solver/index.html",
+    "main.f932e7f8.js.map": "/sheshenk/wordle-solver/static/js/main.f932e7f8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f932e7f8.js"
+  ]
+}
